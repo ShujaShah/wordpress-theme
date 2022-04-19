@@ -3,7 +3,7 @@
 /*
 	
 @package sunsettheme
--- Audio Post Format
+-- Audio Post Format.
 
 */
 
